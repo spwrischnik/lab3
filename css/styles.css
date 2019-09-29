@@ -1,0 +1,54 @@
+body 
+{
+    background-color:green;
+}
+.jumbotron
+{
+    text-align: center;
+    background-color: black;    
+    color: white;
+}
+.correct 
+{
+    color: green;
+    font-size: 18pt;
+}
+
+.incorrect 
+{
+    color: red;
+    font-size: 18pt;
+}
+
+.center 
+{
+	text-align: center;
+}
+#content 
+{
+	width: 70%;
+	text-align: center;
+	text-align: left;
+	margin: 0 auto;
+}
+
+.footer 
+{
+	text-align: center;
+	font-size: 10pt;
+	margin: 40px;
+}
+
+#container 
+{
+    display: flex;
+}
+
+#inline 
+{
+    display: inline;
+}
+#congrats
+{
+    color:blue;
+}
